@@ -1,0 +1,7 @@
+.cardBorder{
+    border-radius: 0.5em;
+    background-color: darkgray;
+    padding: 10px;
+    margin: 15px;
+    background-image: url("https://image.freepik.com/free-photo/grunge-aquarelle-painted-textured-surface_23-2148118078.jpg");
+}
